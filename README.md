@@ -1,5 +1,5 @@
-## Solicionar Error dpkg
-
+## Solicionar Errores linux
+### Error dpkg
 Recomendacion en caso de no tener instalado unicode, debes de hacerlo:
 
 SO Linux pop-os 5.19.0-76051900-generic
