@@ -1,4 +1,5 @@
-## Solicionar Errores linux
+## Solicionar Errores Linux
+
 ### Error dpkg
 Recomendacion en caso de no tener instalado unicode, debes de hacerlo:
 
